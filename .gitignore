@@ -1,0 +1,6 @@
+.stack-work/
+rev.cabal
+*~
+.idea/
+*.iml
+.HTF/
