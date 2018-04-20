@@ -2,6 +2,7 @@
 
 Simple version of `rev` command for Linux and Windows. Only supports standard input (STDIN).
 
+This command reads lines and every line reverses.
 
 ## Download
 See **releases** at top of repository page.
